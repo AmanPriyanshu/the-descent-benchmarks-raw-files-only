@@ -17,7 +17,7 @@ Distribution of 5,194 unique context documents across different length ranges:
 
 | Context Length | Characters | GPT-2 Tokens | Llama-3.1-8B Tokens | GPT-OSS-20B Tokens |
 |---------------|-----------|--------------|---------------------|-------------------|
-| 2K-8K | 68 | 1,286 | 1,322 | 1,338 |
+| 0-8K | 68 | 1,286 | 1,322 | 1,338 |
 | 8K-16K | 290 | 2,126 | 2,198 | 2,210 |
 | 16K-32K | 814 | 588 | 528 | 504 |
 | 32K-64K | 1,694 | 212 | 204 | 202 |
