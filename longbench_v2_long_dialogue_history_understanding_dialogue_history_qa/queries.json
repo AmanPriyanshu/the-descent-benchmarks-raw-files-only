@@ -1,0 +1,382 @@
+[
+  {
+    "_id": "671b99e5bb02136c067d583d",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "Wear a tuxedo or robe.",
+    "choice_B": "Dress business casual.",
+    "choice_C": "Wear business attire.",
+    "choice_D": "Wear whatever clothes they feel comfortable in.",
+    "answer": "C",
+    "context_id": "6c0b243c",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "How do users most likely plan to dress for a master's graduation?"
+  },
+  {
+    "_id": "671a4444bb02136c067d4a40",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "3 years later",
+    "choice_B": "5 years later",
+    "choice_C": "7 years later",
+    "choice_D": "10 years later",
+    "answer": "B",
+    "context_id": "57007386",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "When will the user turn forty？"
+  },
+  {
+    "_id": "671b530dbb02136c067d5454",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "2",
+    "choice_B": "3",
+    "choice_C": "4",
+    "choice_D": "5",
+    "answer": "D",
+    "context_id": "0335c598",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "How many days a week does the user have to attend classes？"
+  },
+  {
+    "_id": "6719c1febb02136c067d44db",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "To find connections between two organizations",
+    "choice_B": "To prioritize the routine to improve efficiency",
+    "choice_C": "To express the thoughts about a TV show",
+    "choice_D": "To give recommendations on a specific software",
+    "answer": "D",
+    "context_id": "d50a9634",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "According to the dialogues, which of the requirements raised by the users cannot be satisfied by the assistant?"
+  },
+  {
+    "_id": "67189156bb02136c067d3b8d",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "Online resources to study Mexican",
+    "choice_B": "How to enrich the time spend on the road",
+    "choice_C": "Plants that are easy to grow",
+    "choice_D": "What brand of new car should the user buy",
+    "answer": "B",
+    "context_id": "f24fcdb7",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which of the topics has been asked by the users for suggestions?"
+  },
+  {
+    "_id": "67192e81bb02136c067d427f",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Six years old",
+    "choice_B": "Seven years old",
+    "choice_C": "five years old",
+    "choice_D": "Eight years old",
+    "answer": "A",
+    "context_id": "cb32619d",
+    "answers": [
+      "A"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "How old is the user’s niece now？"
+  },
+  {
+    "_id": "671b58e8bb02136c067d5525",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "5",
+    "choice_B": "10",
+    "choice_C": "15",
+    "choice_D": "20",
+    "answer": "B",
+    "context_id": "9e29fd09",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "How many days did Rachel borrow the user's road bike?"
+  },
+  {
+    "_id": "67192057bb02136c067d41b4",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "2 days",
+    "choice_B": "3 days",
+    "choice_C": "4 days",
+    "choice_D": "5 days",
+    "answer": "C",
+    "context_id": "8adc7dbd",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "How many days did the user wear his brown loafers last week?"
+  },
+  {
+    "_id": "6719185cbb02136c067d40ab",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "Last month",
+    "choice_B": "Last year",
+    "choice_C": "Two years ago",
+    "choice_D": "Three months ago",
+    "answer": "B",
+    "context_id": "30227b44",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "When did the user's nephew start eighth grade？"
+  },
+  {
+    "_id": "671b56cfbb02136c067d54e9",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Six and half hours",
+    "choice_B": "Seven and a half hours",
+    "choice_C": "Eight and a half hours",
+    "choice_D": "Nine and a half hours",
+    "answer": "D",
+    "context_id": "b294aca3",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "In order to adjust the schedule, how many hours does the user plan to sleep on weekdays?"
+  },
+  {
+    "_id": "6719d65ebb02136c067d45dc",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "The music industry",
+    "choice_B": "Health and Life sciences industry",
+    "choice_C": "Marketing industry",
+    "choice_D": "Charity industry",
+    "answer": "C",
+    "context_id": "19c8d233",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "In the conversation history, users mentioned that they were interested in the fundraising campaign and asked questions about the fundraising story. Based on the conversation, what industry is the user most likely to belong to?"
+  },
+  {
+    "_id": "671b5d49bb02136c067d55fb",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "The user went to Los Angeles",
+    "choice_B": "The user signed up for the free trial of Disney+",
+    "choice_C": "The user went to the Photography Museum",
+    "choice_D": "The user participated in a virtual webinar",
+    "answer": "C",
+    "context_id": "81ea796b",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which of the following did not happen in February?"
+  },
+  {
+    "_id": "671b2e2dbb02136c067d515b",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "the user started playing the Fender CD-60S",
+    "choice_B": "the user went to that outdoor music festival",
+    "choice_C": "the user felt overwhelmed with work projects",
+    "choice_D": "the user took yoga classes at the local studio",
+    "answer": "C",
+    "context_id": "e1ea5191",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which of the following happened first?"
+  },
+  {
+    "_id": "67191791bb02136c067d406c",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "$12",
+    "choice_B": "$120",
+    "choice_C": "$60",
+    "choice_D": "$80",
+    "answer": "C",
+    "context_id": "7a382634",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "What was the original price of the Up & Up brand cleaning supplies the user bought?"
+  },
+  {
+    "_id": "671b2822bb02136c067d5020",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "the user joined XYZ Corporation",
+    "choice_B": "the user graduated from college",
+    "choice_C": "the user  took a  writing workshop",
+    "choice_D": "the user went to Yosemite National Park",
+    "answer": "D",
+    "context_id": "da541f33",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which of the following events occurred most recently？"
+  },
+  {
+    "_id": "6719ef50bb02136c067d4911",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Generate detailed performance analysis reports for teachers to personalize teaching.",
+    "choice_B": "Provide a real-time feedback mechanism to help students self-adjust during the learning process.",
+    "choice_C": "Support multi-dimensional data analysis to assist schools in optimizing teaching effects.",
+    "choice_D": "Realize a cross-platform score access system to facilitate teachers and parents to query.",
+    "answer": "C",
+    "context_id": "70d05cd3",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "In addition to receiving student scores and sorting, what other function might be implicit in the design of the system mentioned by the user?"
+  },
+  {
+    "_id": "6719167dbb02136c067d4025",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "At about 9:00 a.m. Beijing time",
+    "choice_B": "At about 9:00 p.m. Beijing time",
+    "choice_C": "At about 7:00 p.m. Beijing time",
+    "choice_D": "At about 11:00 a.m. Beijing time",
+    "answer": "A",
+    "context_id": "b9327e8a",
+    "answers": [
+      "A"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "When dose the user streaming on YouTube at usual？"
+  },
+  {
+    "_id": "6719dc46bb02136c067d470b",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "user might be managing a team and want to know how to make it more inclusive and collaborative.",
+    "choice_B": "A user might be leading a company and looking for ways to enhance the work experience for employees.",
+    "choice_C": "A user may be leading a company that needs to improve the working conditions of its employees.",
+    "choice_D": "A user may be leading a company and looking for a reasonable allocation of resources.",
+    "answer": "B",
+    "context_id": "f03335b1",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Based on the conversations between the user and the assistant, which is the biggest challenges that the user may face in his/her career?"
+  },
+  {
+    "_id": "6718a43fbb02136c067d3ca8",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Dialogue history QA",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "The user who asked about painkillers.",
+    "choice_B": "The user who was looking for some new musicals to watch.",
+    "choice_C": "The user who asked for comparing and contrasting New Statesman's coverage of Brexit, climate change, and social justice to other news sources.",
+    "choice_D": "The user who asked for standout performances on individual tracks of the album.",
+    "answer": "B",
+    "context_id": "46ecef96",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_dialogue_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which of the following user was satisfied with the help of the assistant and the conversations was very pleasant?"
+  }
+]

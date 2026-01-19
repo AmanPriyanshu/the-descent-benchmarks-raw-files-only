@@ -1,0 +1,402 @@
+[
+  {
+    "_id": "671b3cabbb02136c067d5252",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_1",
+    "choice_B": "player_3",
+    "choice_C": "player_5",
+    "choice_D": "player_7",
+    "answer": "B",
+    "context_id": "5e72f537",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player got the least utility in the game?"
+  },
+  {
+    "_id": "6719bc01bb02136c067d43fa",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_0",
+    "choice_B": "player_3",
+    "choice_C": "player_4",
+    "choice_D": "player_6",
+    "answer": "D",
+    "context_id": "8a40c234",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player wins the most golds in the game?"
+  },
+  {
+    "_id": "671b1335bb02136c067d4e88",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "easy",
+    "length": "short",
+    "choice_A": "player_2",
+    "choice_B": "player_4",
+    "choice_C": "player_6",
+    "choice_D": "player_8",
+    "answer": "C",
+    "context_id": "b9b31da2",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player won the most times in the game?"
+  },
+  {
+    "_id": "671b3fa1bb02136c067d5353",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_0 and player_1",
+    "choice_B": "player_1 and player_5",
+    "choice_C": "player_0 and player_5",
+    "choice_D": "player_1 and player_9",
+    "answer": "C",
+    "context_id": "00c094b1",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which players got the most utility in the game?"
+  },
+  {
+    "_id": "671b2c67bb02136c067d50f7",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_3",
+    "choice_B": "player_5",
+    "choice_C": "player_7",
+    "choice_D": "player_9",
+    "answer": "D",
+    "context_id": "024f98bb",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player contributed the second most tokens in the game?"
+  },
+  {
+    "_id": "671b17d5bb02136c067d4f7d",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "easy",
+    "length": "short",
+    "choice_A": "player_2",
+    "choice_B": "player_4",
+    "choice_C": "player_6",
+    "choice_D": "player_7",
+    "answer": "D",
+    "context_id": "708ff500",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player contributed the most tokens in the game?"
+  },
+  {
+    "_id": "6713066fbb02136c067d3214",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_1",
+    "choice_B": "player_3",
+    "choice_C": "player_5",
+    "choice_D": "player_7",
+    "answer": "D",
+    "context_id": "3fbca459",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "According to the log, which player is the most selfish one in the forth round of the game?"
+  },
+  {
+    "_id": "6719b96abb02136c067d4358",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_0",
+    "choice_B": "player_3",
+    "choice_C": "player_5",
+    "choice_D": "player_9",
+    "answer": "B",
+    "context_id": "05e8623e",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player wins the most golds in the game?"
+  },
+  {
+    "_id": "6719bce5bb02136c067d4447",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_3",
+    "choice_B": "player_4",
+    "choice_C": "player_7",
+    "choice_D": "player_9",
+    "answer": "C",
+    "context_id": "b7d5743d",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player wins the most golds in the game?"
+  },
+  {
+    "_id": "671b1480bb02136c067d4f14",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "easy",
+    "length": "short",
+    "choice_A": "player_0",
+    "choice_B": "player_2",
+    "choice_C": "player_4",
+    "choice_D": "player_6",
+    "answer": "A",
+    "context_id": "cd7fcc9e",
+    "answers": [
+      "A"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player won the most times in the game?"
+  },
+  {
+    "_id": "6719b9f1bb02136c067d4389",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_0",
+    "choice_B": "player_3",
+    "choice_C": "player_5",
+    "choice_D": "player_8",
+    "answer": "A",
+    "context_id": "975d8cee",
+    "answers": [
+      "A"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player wins the most golds in the game?"
+  },
+  {
+    "_id": "671b3d1bbb02136c067d5283",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "easy",
+    "length": "short",
+    "choice_A": "player_2 and player_4",
+    "choice_B": "player_0 and player_4",
+    "choice_C": "player_2 and player_6",
+    "choice_D": "player_0 and player_6",
+    "answer": "C",
+    "context_id": "19f1318f",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which players got the most utility in the game?"
+  },
+  {
+    "_id": "671b3d9fbb02136c067d52b2",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "easy",
+    "length": "short",
+    "choice_A": "player_1 and player_8",
+    "choice_B": "player_0 and player_8",
+    "choice_C": "player_8 and player_9",
+    "choice_D": "player_1 and player_9",
+    "answer": "D",
+    "context_id": "fdc4ab7a",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which players got the second most utility in the game?"
+  },
+  {
+    "_id": "671b3e0cbb02136c067d52e5",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "easy",
+    "length": "short",
+    "choice_A": "player_1",
+    "choice_B": "player_3",
+    "choice_C": "player_5",
+    "choice_D": "player_7",
+    "answer": "D",
+    "context_id": "71b26010",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player got the most utility in the game?"
+  },
+  {
+    "_id": "671b2c05bb02136c067d50c8",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "easy",
+    "length": "short",
+    "choice_A": "player_2",
+    "choice_B": "player_4",
+    "choice_C": "player_6",
+    "choice_D": "player_8",
+    "answer": "A",
+    "context_id": "59054fb3",
+    "answers": [
+      "A"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player contributed the most tokens in the game?"
+  },
+  {
+    "_id": "671b13f5bb02136c067d4ee3",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_1",
+    "choice_B": "player_3",
+    "choice_C": "player_5",
+    "choice_D": "player_8",
+    "answer": "B",
+    "context_id": "b9b31da2",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which following player won the least times in the game?"
+  },
+  {
+    "_id": "671b08c8bb02136c067d4e19",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "easy",
+    "length": "short",
+    "choice_A": "player_1",
+    "choice_B": "player_3",
+    "choice_C": "player_5",
+    "choice_D": "player_7",
+    "answer": "C",
+    "context_id": "3327d921",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which following player won the least times in the game?"
+  },
+  {
+    "_id": "671b080abb02136c067d4dde",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_0",
+    "choice_B": "player_4",
+    "choice_C": "player_5",
+    "choice_D": "player_6",
+    "answer": "B",
+    "context_id": "7da4e506",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player won the most times in the game?"
+  },
+  {
+    "_id": "671b170cbb02136c067d4f4a",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "easy",
+    "length": "short",
+    "choice_A": "player_2",
+    "choice_B": "player_4",
+    "choice_C": "player_6",
+    "choice_D": "player_8",
+    "answer": "C",
+    "context_id": "2370b352",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player contributed the most tokens in the game?"
+  },
+  {
+    "_id": "671b2b57bb02136c067d508b",
+    "domain": "Long-dialogue History Understanding",
+    "sub_domain": "Agent history QA",
+    "difficulty": "hard",
+    "length": "short",
+    "choice_A": "player_2",
+    "choice_B": "player_4",
+    "choice_C": "player_6",
+    "choice_D": "player_8",
+    "answer": "D",
+    "context_id": "55b29239",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_dialogue_history_understanding_agent_history_qa",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which player contributed the least tokens in the game?"
+  }
+]
