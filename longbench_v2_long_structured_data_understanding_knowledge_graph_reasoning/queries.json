@@ -1,0 +1,302 @@
+[
+  {
+    "_id": "67285e1dbb02136c067d901b",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Q1130799",
+    "choice_B": "Q49106",
+    "choice_C": "Q78994",
+    "choice_D": "Q825946",
+    "answer": "A",
+    "context_id": "eef476e8",
+    "answers": [
+      "A"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which news program in the TV comedy genre ran for the fewest seasons?"
+  },
+  {
+    "_id": "67237d8ebb02136c067d6c06",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "long",
+    "choice_A": "Q179424",
+    "choice_B": "Q181862",
+    "choice_C": "Q179424, Q181862",
+    "choice_D": "None of the Above",
+    "answer": "C",
+    "context_id": "cc70750c",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Tell me the Ireland counties that have licence plate code DL or an ISO 3166-2 code of IE-CE."
+  },
+  {
+    "_id": "6724c788bb02136c067d792d",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "1820",
+    "choice_B": "1975",
+    "choice_C": "1969-02-01",
+    "choice_D": "1961-11-27",
+    "answer": "B",
+    "context_id": "3b2e483a",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "What is the inception time of the award that was received by Q181659 in 1995?"
+  },
+  {
+    "_id": "672861afbb02136c067d90d8",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "14",
+    "choice_B": "19",
+    "choice_C": "15",
+    "choice_D": "65",
+    "answer": "C",
+    "context_id": "e72a14a2",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "How many matches has Q439302 played as a member of Q18521?"
+  },
+  {
+    "_id": "6724c83fbb02136c067d7962",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Q236728",
+    "choice_B": "Q696236",
+    "choice_C": "Q1143644",
+    "choice_D": "Q428130",
+    "answer": "D",
+    "context_id": "3b2e483a",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Of all the animes that have less than 10 seasons, which has the highest number of episodes?"
+  },
+  {
+    "_id": "6724c5febb02136c067d78e7",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "Q1161659",
+    "choice_B": "Q624806",
+    "choice_C": "Q953662",
+    "choice_D": "Q1254404",
+    "answer": "A",
+    "context_id": "233c86e5",
+    "answers": [
+      "A"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which television films mainly depict Q2736 and originate in the Q145?"
+  },
+  {
+    "_id": "6724c4aabb02136c067d78a6",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "Q319810",
+    "choice_B": "Q8870414",
+    "choice_C": "Q319810 and Q8870414",
+    "choice_D": "Q443019",
+    "answer": "B",
+    "context_id": "82b48093",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Who is a member of both the Q19615 and Q18507?"
+  },
+  {
+    "_id": "67249705bb02136c067d76d1",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Q470665",
+    "choice_B": "Q1229857",
+    "choice_C": "Q490464",
+    "choice_D": "Q318428",
+    "answer": "D",
+    "context_id": "28cd5c08",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which feature films with a publication date after 2003 has the smallest duration?"
+  },
+  {
+    "_id": "672494e5bb02136c067d7697",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Q503119",
+    "choice_B": "Q42402",
+    "choice_C": "Q5342976",
+    "choice_D": "Q1544904",
+    "answer": "C",
+    "context_id": "34d7e777",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which lawyer was educated at Phillips Exeter Academy?"
+  },
+  {
+    "_id": "67285f8ebb02136c067d905d",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "hard",
+    "length": "medium",
+    "choice_A": "0",
+    "choice_B": "1",
+    "choice_C": "2",
+    "choice_D": "3",
+    "answer": "C",
+    "context_id": "9d2399d1",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Q34 is the source of how many forms of death metal?"
+  },
+  {
+    "_id": "6724c1d4bb02136c067d77ec",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Q25395",
+    "choice_B": "Q138578",
+    "choice_C": "Q138367",
+    "choice_D": "Q985592",
+    "answer": "A",
+    "context_id": "6293c32c",
+    "answers": [
+      "A"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which New Jersey cities with under 350000 in population is biggest in terms of area?"
+  },
+  {
+    "_id": "67286036bb02136c067d9092",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Q12753",
+    "choice_B": "Q12751",
+    "choice_C": "Q12661",
+    "choice_D": "Q12770",
+    "answer": "D",
+    "context_id": "cd576a72",
+    "answers": [
+      "D"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Of French departments in Q13950, which has the lowest weddings per year count?"
+  },
+  {
+    "_id": "6728586bbb02136c067d8f4f",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Q48410",
+    "choice_B": "Q344983",
+    "choice_C": "Q922118",
+    "choice_D": "Q11869",
+    "answer": "C",
+    "context_id": "8fa55994",
+    "answers": [
+      "C"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which Q131499 team member with uniform number 11 scored 53 points?"
+  },
+  {
+    "_id": "6724cae7bb02136c067d79be",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "long",
+    "choice_A": "Q249967",
+    "choice_B": "Q477965",
+    "choice_C": "Q11621",
+    "choice_D": "Q104905",
+    "answer": "B",
+    "context_id": "ef0d302f",
+    "answers": [
+      "B"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which animated feature film's release region is Q801 and was produced by Q237207?"
+  },
+  {
+    "_id": "6724938fbb02136c067d7657",
+    "domain": "Long Structured Data Understanding",
+    "sub_domain": "Knowledge graph reasoning",
+    "difficulty": "easy",
+    "length": "medium",
+    "choice_A": "Q984613",
+    "choice_B": "Q208143",
+    "choice_C": "Q58900",
+    "choice_D": "Q279000",
+    "answer": "A",
+    "context_id": "228a1705",
+    "answers": [
+      "A"
+    ],
+    "dataset": "longbench_v2_long_structured_data_understanding_knowledge_graph_reasoning",
+    "language": "en",
+    "all_classes": null,
+    "input": "Which town has a TOID of 4000000074573917 and has an OS grid reference of SP8778?"
+  }
+]
