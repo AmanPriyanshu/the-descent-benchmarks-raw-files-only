@@ -1,0 +1,3011 @@
+[
+    {
+        "_id": "12b8de0b-a61e-9b26-2297-55661f2700d5",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "114"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f640a27f-7a2e-7652-58b4-43fb28651261",
+        "input": "Total number of rolls by the character Keyleth in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "17"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "903bedbc-c14c-451c-3c93-bf7dcf3d1b8b",
+        "input": "Total number of rolls by the character Vex'ahlia in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "27"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e76b5f71-41de-6c4a-5c53-c1fdab02b55b",
+        "input": "Total number of rolls by the player Laura in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "27"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0623c545-f7b5-e2c5-42f9-2c633ac36bb8",
+        "input": "Total number of rolls by the player Marisha in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "17"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6a796ee2-0fa2-489f-efa6-779375637bd5",
+        "input": "Total number of rolls of type Investigation in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "4"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b93766b8-e569-caa5-b02b-67c6275007e8",
+        "input": "Total number of rolls of type Intimidation in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "1"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f795fdfd-f174-9a4e-2539-df9364444f41",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "2"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b8103348-dd1d-5e5f-3939-bd6db6849897",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "3"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d196bfaa-4da0-1490-c974-dec47288f7ca",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "2"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "74e1ab7b-7444-973f-24f9-120ef91b65d6",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "3"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "28b3913c-b65f-b957-312e-ff97d898f7f8",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Attack"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f5979924-d6b0-ac72-3f76-f4895e557e49",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Cutting Words, Tinkering, Dexterity Save, Athletics, Dexterity, Acrobatics, Intelligence Save, Sleight of Hand, Intimidation"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "59ba574c-eb5d-f51c-b42f-044b4ba49908",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "7, 23, 11"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "30739c81-2d6b-71e0-0a74-d8c12871debf",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "8"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "8cfd835c-0a3b-b085-b5cd-4acd598bfb09",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "4"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "90572a07-3742-f51d-fb17-b25bf25c561f",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "4"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "4959e6f4-e200-93d1-90ca-5e5c11940d77",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "21"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f7352033-b98e-e66f-dfa8-eb5eadefb897",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "112"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c0040a89-b1c9-ddf2-5edd-016ca5ec836b",
+        "input": "Total number of rolls by the character Vex'ahlia in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "24"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5e243082-774d-136c-42f3-f392a2e15e8d",
+        "input": "Total number of rolls by the character Percy in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "16"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "38d660f8-47e8-e226-08bc-0230fc751845",
+        "input": "Total number of rolls by the player Laura in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "24"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b31ff94f-8077-0488-23d9-7e52e611906c",
+        "input": "Total number of rolls by the player Taliesin in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "16"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0b0685a4-85d2-98bc-f9be-a520eee008c0",
+        "input": "Total number of rolls of type Nature in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "5"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3f0640a9-a209-996d-acdf-7d2e8edbda04",
+        "input": "Total number of rolls of type Stealth in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "25"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "1850e176-bafe-ce0c-38b7-ce10d614f074",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "2"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5c71e9ac-6746-fa4c-03dc-4a290dfb0fc9",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "5"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7862744d-19fa-e03d-274c-08879810b60f",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "01430629",
+        "answers": [
+            "2"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7f233049-20b7-939e-e627-b4a384300e1d",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "01430629",
+        "answers": [
+            "4"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "62c0641e-1713-25b5-fe34-78fdc1a5b120",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "01430629",
+        "answers": [
+            "Stealth"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "affbd77e-f3da-3394-f022-90423ac576be",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "01430629",
+        "answers": [
+            "Tinkering, Arcana"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5ac55120-8099-a9f9-25fc-79ce3a9be627",
+        "input": "What is the most common natural roll value in this episode? Return a comma separated list.",
+        "context_id": "01430629",
+        "answers": [
+            "19, Unknown"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c164b4f4-ec5c-69ac-fe85-7ad179bd9310",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "01430629",
+        "answers": [
+            "4, 20, 8"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e8190dd7-83d9-6025-3f9a-8a67eec4370e",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "01430629",
+        "answers": [
+            "7"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5abf145f-a166-2e12-9bdd-e81e4ef10258",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "01430629",
+        "answers": [
+            "2"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "33bbea81-805f-64a8-2af2-076274b74c37",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "01430629",
+        "answers": [
+            "5"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ccb3489d-6f8f-a0cc-c2f1-6056f62e8fab",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "98"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "18828e5f-4423-fda3-a811-64a465ca66a2",
+        "input": "Total number of rolls by the character Grog in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "9"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "45e69c6a-6e82-9145-84db-009fa8fa572c",
+        "input": "Total number of rolls by the character Percy in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "10"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0f88b40b-9601-ec5a-625b-bbbe8a5817ff",
+        "input": "Total number of rolls by the player Travis in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "9"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "59460988-e263-6727-987a-9f3c981a97f4",
+        "input": "Total number of rolls by the player Taliesin in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "10"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "be67e34a-59e5-c675-195d-0ecd2f5388a9",
+        "input": "Total number of rolls of type Stealth in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "10"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "92f8caf3-d9db-9eb1-9d95-894977eef228",
+        "input": "Total number of rolls of type Perception in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "13"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c5cfbcb3-191f-6d8f-caeb-fd0236f1bdb4",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "2"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "db8c2b28-e7ec-7247-10f1-0380dcc95604",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "1"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0444a2a8-24b3-9354-1224-7430d4905813",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "6bd41653",
+        "answers": [
+            "2"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "384aaa77-e56d-8e4e-e38b-7bdfcab07167",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "6bd41653",
+        "answers": [
+            "1"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "963826be-dfb7-6a87-4c3f-b09ba26bddad",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "6bd41653",
+        "answers": [
+            "Dexterity Save"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f80de1bf-ae63-6284-4e2a-0829cb0d48e7",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "6bd41653",
+        "answers": [
+            "Beard, Arcana, Deception, Healing"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "20eecbc3-263b-41c4-3762-f7d18053b701",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "6bd41653",
+        "answers": [
+            "13, 5"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "34a09a9b-16f6-82d2-c019-0ce8f5ab4f2a",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "6bd41653",
+        "answers": [
+            "11"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6ddd73ae-1b75-2c53-1663-744b1284d0da",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "6bd41653",
+        "answers": [
+            "7"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7a80192f-39d7-23f4-4eb4-d01dad005313",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "6bd41653",
+        "answers": [
+            "4"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "07a58b04-db7a-85f0-7bd9-345276998eef",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "28"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ef959047-c8f7-1158-8e27-55afd54197cd",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "181"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "4bd7e446-46d1-0ebf-2967-b8ea14d09bab",
+        "input": "Total number of rolls by the character Grog in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "31"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "20eaceb2-1185-34cf-53b7-d35253008d23",
+        "input": "Total number of rolls by the character Scanlan in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "20"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6b176dce-d14e-9b25-0b4b-7efe08dd6bb3",
+        "input": "Total number of rolls by the player Travis in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "31"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "28c80fb9-6432-7d8f-587d-89a3d8e55d1c",
+        "input": "Total number of rolls of type Healing in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "10"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0aa47879-7144-6b12-21b8-f81efa2a391e",
+        "input": "Total number of rolls of type Attack in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "35"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "de6b77ab-cb91-88be-8358-1cc6247eef90",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "3"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "493a65db-4e7d-c3f3-66b1-2af2eaf82028",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "2"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b76b948f-d77c-3a3c-c59f-14431b0baf48",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "2"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5c86b923-6562-2c59-7804-192a8a0b2fc7",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "1"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f6f0a5a4-25f4-e5a3-0d7c-b396eff319ec",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Damage"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3711ee43-6ce9-5d1c-349b-5b7b9453012e",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Athletics, Death Save, Stealth, Strength, Inspiration, Investigation, Insight"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "44893a99-3721-4938-8ace-d47983f2a97d",
+        "input": "What is the most common natural roll value in this episode? Return a comma separated list.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "--"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6d689e32-b1e6-656d-ab68-d7fb3fb26968",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "21"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a3306e93-5df8-157e-19fb-e18a30685627",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "17"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "994d630a-ec3e-38af-b6f4-9adf30d460a0",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "13"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d8fffdce-e0d8-4da1-4075-cf47b0ff2cc8",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "4"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "96aa7110-068e-62fd-8080-e5b1b8b296e6",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "65"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2e594606-7a33-3d18-cd6a-4a8e492e2191",
+        "input": "Total number of rolls by the character Tiberius in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "9"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "dfabafde-8f2c-7a28-dc87-2fc738dda998",
+        "input": "Total number of rolls by the character Keyleth in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "5"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0fd6571d-41c3-d926-b441-cd0dbebc0ec8",
+        "input": "Total number of rolls by the player Marisha in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "5"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b82756f5-15db-dfbd-ed02-cc5d86f3ecee",
+        "input": "Total number of rolls by the player Orion in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "9"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2e77e70f-0161-2a12-8e91-68000631ba47",
+        "input": "Total number of rolls of type Persuasion in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "5"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c3e38839-0654-7c03-4ff9-8c5c26e5a486",
+        "input": "Total number of rolls of type Arcana in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "1"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "819a2381-662f-065f-8e09-4fd4e988ba2c",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "3"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "974d4190-9fa4-0723-ddda-75a5b9516119",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "4"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "62f641e3-7edb-4435-713b-14b2e187768f",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "77fec797",
+        "answers": [
+            "5"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2e7a2d64-8f40-92e9-769d-f597011448c7",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "77fec797",
+        "answers": [
+            "6"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "28df35ad-18a7-0ea6-8f6d-10139b51b34e",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "77fec797",
+        "answers": [
+            "Perception"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e9e0b0aa-a5f2-7563-2f55-5c489f9a6fb2",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "77fec797",
+        "answers": [
+            "Arcana, Damage, Sleight of Hand, Strength, Stealth, Investigation"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "122d4d83-4ef2-f8d1-d72f-041b1561cca4",
+        "input": "What is the most common natural roll value in this episode? Return a comma separated list.",
+        "context_id": "77fec797",
+        "answers": [
+            "14, 2"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6838f1bd-de1c-2d1c-bd84-97624257ab5a",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "77fec797",
+        "answers": [
+            "8, 10, 20"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "134775e6-ecc7-627b-da7f-dda142cd14db",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "77fec797",
+        "answers": [
+            "6"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "35f77807-8563-ae85-524c-df71b65ea8cd",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "77fec797",
+        "answers": [
+            "1"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "84ba35df-59c2-169e-09d7-d92d0e0d7bee",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "77fec797",
+        "answers": [
+            "5"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "02801d4e-1c5a-5a87-db00-5e0076f2e0a7",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "131"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "833e3140-364b-2630-879c-51d2ec695cb7",
+        "input": "Total number of rolls by the character Percy in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "18"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "9626faf1-5ae3-9757-546c-ebc650d275bc",
+        "input": "Total number of rolls by the character Scanlan in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "7"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3b80aa38-ae95-3d4f-8c79-061c99755068",
+        "input": "Total number of rolls by the player Taliesin in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "18"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "55d88605-310b-da9f-f31e-2ceaf5d57b12",
+        "input": "Total number of rolls of type Tinkering in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "3"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2061b22e-7d54-e98f-0b16-83ee4476b40d",
+        "input": "Total number of rolls of type Intelligence in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "3"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7523903e-dc29-d73a-4e17-072c3cfd560f",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "1"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2dd2858c-09d6-12ab-b7d1-79051fa74956",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "4"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a00438ba-ccf2-9836-7af2-1748b12a4882",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "1"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0165a23a-74aa-7342-26ef-6f39e9e55af8",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "3"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5c686a48-db3a-0965-0c4a-69718aa3af29",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Attack"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "48484451-0ff7-ffa2-cbbd-0b2ce8d9ae4b",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Heroes' Feast, Divine Intervention, Cutting Words"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d48e73cd-6bb9-a3ae-b12a-097b2089877f",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "2, 4, 1, 17"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5a7f7e95-3db0-f40f-1a27-11d6993012f7",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "5"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "161d4524-d003-1909-1727-c540776935aa",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "4"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "4eb533ab-a823-5181-26ec-0523159fcd2c",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "1"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "679abdff-1812-f8ad-bbd0-5060ed66a9b3",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "28"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "054a536f-aae1-7251-a439-bdcc072f3c05",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "67"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d3e2aea2-d93c-d8d8-750e-7e5bc62b5bdb",
+        "input": "Total number of rolls by the character Scanlan in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "8"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2a2f3a66-0069-3b67-9994-0cc19bc37fd3",
+        "input": "Total number of rolls by the character Keyleth in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "9"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "1da0ecee-68c1-e623-cd4e-8e33d15a9d63",
+        "input": "Total number of rolls by the player Marisha in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "9"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6b83f67d-9e66-3078-e3e7-11ccfd764eb9",
+        "input": "Total number of rolls of type Deception in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "1"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "84cf0a41-b0a2-be5d-d84d-56fd3b4445ed",
+        "input": "Total number of rolls of type Wisdom Save in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "6"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7537d89c-7cad-d7bc-8932-936bcb9621b1",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "0"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ceec69c0-77d3-e3a8-2912-0aa3b890cdc3",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "3"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "fb482d5b-bb9a-706d-cdaf-0598dea7c79e",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "0"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ed8d9e98-a8c2-237e-1817-cb7e24732a0c",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "4"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ca8bb53d-f02e-4bbc-04cb-d6037be6f885",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Perception"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "07e7cacb-0072-fcb6-4360-1cbb4c4d88fc",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Deception, Intelligence"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "68741d03-cdcf-e7da-58bd-3a97fab9e2c1",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "18, 3, 9, 2, 12, 1"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "069bb4ea-ef54-97de-e0ea-c08a65a040e1",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "4"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "97002690-436f-502c-47b6-7eb51d84b78a",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "3"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e52c5e05-5ce6-4f09-3e29-4879c266c648",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "1"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7081f44a-5f88-e64c-524f-649dd32c4f03",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "18"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "8aca00ea-f35f-fc47-d436-587925c5e1c1",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "50"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "dc5ff494-a528-fa70-bbd5-a20e5f0bb7e2",
+        "input": "Total number of rolls by the character Keyleth in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "11"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2289cd9d-0e4a-a491-819c-ecc6500249fd",
+        "input": "Total number of rolls by the character Vex'ahlia in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "5"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ee5a9694-e607-68c8-09ff-6c6fffe80631",
+        "input": "Total number of rolls by the player Laura in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "5"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2728dc55-bfe5-b990-fa86-9b40021a3de8",
+        "input": "Total number of rolls by the player Marisha in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "11"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "59a0792b-d575-d460-844a-8984ce73ec73",
+        "input": "Total number of rolls of type Perception in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "2"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "67061880-d7ae-b738-f793-fb4104d5df2b",
+        "input": "Total number of rolls of type Nature in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "2"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f766d12b-9e1b-41c7-58f1-04ee1a7c1c21",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "0"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5a5b630d-5109-950d-7f70-298fc1c8fac9",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "4"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "9685ed17-5a25-d19c-c60c-06021ce7faff",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "66b6a774",
+        "answers": [
+            "0"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a6f52cc8-b1e9-c601-31ab-67ff3734b2aa",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "66b6a774",
+        "answers": [
+            "8"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "72e8a73b-5e19-1a20-451f-4d96e9d718f6",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "66b6a774",
+        "answers": [
+            "Dexterity Save"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f194fd10-a5d6-8048-c1a3-e02c9a6d6d16",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "66b6a774",
+        "answers": [
+            "Inspiration"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b840b90b-4120-485f-36eb-c04c6e0a55c4",
+        "input": "What is the most common natural roll value in this episode? Return a comma separated list.",
+        "context_id": "66b6a774",
+        "answers": [
+            "1"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6ea73c1f-134c-456f-d0fc-c3242cf007d3",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "66b6a774",
+        "answers": [
+            "15, 12, 11, 21, 7, 6, 5"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a82ed161-8f40-084e-b84d-724ace68cae8",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "66b6a774",
+        "answers": [
+            "8"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e6601f7e-1cd2-155a-ac3f-bfb53dcbb1f1",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "66b6a774",
+        "answers": [
+            "2"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ad3505d3-f5f5-62b2-d7e2-5966adbbf539",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "66b6a774",
+        "answers": [
+            "6"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "33aa9151-f5b5-a508-734c-4deeef17d16f",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "20"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c49b92e3-b379-159d-923d-ff6750b64e90",
+        "input": "Total number of rolls by the character Vex'ahlia in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "9"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6ad959f8-ecd7-4f16-652d-d97cf2d14fa4",
+        "input": "Total number of rolls by the character Vax'ildan in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "3"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "10e744e8-821b-5371-8207-c71fabc5cb7b",
+        "input": "Total number of rolls by the player Laura in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "9"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f0510228-bb46-b412-d407-c88a01690bb6",
+        "input": "Total number of rolls by the player Liam in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "3"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "cd343800-ed3a-e80f-aaf7-0349a19d7d32",
+        "input": "Total number of rolls of type Stealth in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "3"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b6a378e4-ae7a-64c0-6676-3b3b5ba0f445",
+        "input": "Total number of rolls of type Persuasion in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "1"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "076ce12a-8884-7b1e-bc17-884a2fe847ea",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "0"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "bf45f2b6-1e57-a835-7b88-e3e08de9e9a0",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "2"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ae023a12-29d3-d322-b53d-cfa3834f1619",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "0"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "8bcf1336-f6b2-544c-2545-81fedf8f4475",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "10"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7c30fa9d-9ea4-b0f3-9707-9ab1158f1b3e",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Perception"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "bdc11cad-815f-b945-2144-4a835b75a8c1",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Insight, Persuasion, Intelligence, Other"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ee4d75bf-2969-eb8f-bf53-cc7c8a507be9",
+        "input": "What is the most common natural roll value in this episode? Return a comma separated list.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "10, 12"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "95c9f6c4-0ef7-a964-d8e1-c9d8bd20c733",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "15, 20, 8, 5, 6"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "985cf1e4-7659-4602-c5d3-63948b0f598f",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "1"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e7a63d9a-afc6-da30-abd6-55e1332ea3c6",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "1"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "fdda220a-8a1e-9355-aaa7-69f61fa454af",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "0"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c6635e7b-ee57-13b0-1e65-7b8619f0e01a",
+        "input": "Total number of rolls in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "67"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5c26ec9b-51aa-ffef-7d33-fb4c8d08c00a",
+        "input": "Total number of rolls by the character Vex'ahlia in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "14"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d0ca8626-9be0-0982-7f38-ec3292d29136",
+        "input": "Total number of rolls by the character Grog in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "10"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "681a57e2-ede6-6939-8d3a-e7c2962f300d",
+        "input": "Total number of rolls by the player Laura in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "14"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d0ba2f97-b018-594b-546d-36d086ff95eb",
+        "input": "Total number of rolls by the player Travis in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "10"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d67323ab-a06f-d4f7-a7ef-78a7a8322b72",
+        "input": "Total number of rolls of type Wisdom in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "2"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e8a08c5b-6a1a-80a3-5b56-63b9fbb41f60",
+        "input": "Total number of rolls of type Strength in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "4"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f489fbab-480f-d6f7-bb9a-b727ef9cf99e",
+        "input": "Number of rolls of natural value 4 in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f6a60573-69c5-8fc3-22e8-4b813479b00e",
+        "input": "Number of rolls of natural value 13 in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "9"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "40e27c15-ef4d-bcd5-7997-5d2e24ef9338",
+        "input": "In this episode, what percentage of rolls were of value 4? round to the nearest integer.",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "4bc1353e-6e2d-df99-739b-a54af2912732",
+        "input": "In this episode, what percentage of rolls were of value 13? round to the nearest integer.",
+        "context_id": "10900c8b",
+        "answers": [
+            "13"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5b9d0a83-2b16-d595-0f10-200180658d50",
+        "input": "What is the most common roll type in this episode? Return a comma separated list.",
+        "context_id": "10900c8b",
+        "answers": [
+            "Stealth"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "efeebde3-cd20-986a-729d-c7ba52722518",
+        "input": "What is the least common roll type in this episode? Only include types with more than one roll. Return a comma separated list.",
+        "context_id": "10900c8b",
+        "answers": [
+            "Persuasion, Insight, Tinkering, Inspiration, Religion, Athletics, Intimidation"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e7569210-89ff-597d-3951-6c9f2d048c76",
+        "input": "What is the least common natural roll value in this episode? Only include values with more than one roll. Return a comma separated list.",
+        "context_id": "10900c8b",
+        "answers": [
+            "4, 2, 20, 12"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "97bc1fd5-b7c0-c391-9df3-2799831f2e55",
+        "input": "What is the count of Crits? (natural rolls of value 1 or 20)?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "29ea3fe6-359c-e8d8-67c3-007d1625bb7e",
+        "input": "What is the count of Nat20s (natural rolls of value 20)?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c3560182-f64c-5856-dec8-a0990e47a87f",
+        "input": "What is the count of Nat1s (natural rolls of value 1)?",
+        "context_id": "10900c8b",
+        "answers": [
+            "0"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "407c13a4-3830-dc2b-5225-f6c28df972b8",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "10"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_rolls",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_rolls",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    }
+]

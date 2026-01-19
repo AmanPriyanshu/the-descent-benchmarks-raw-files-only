@@ -1,0 +1,3640 @@
+[
+    {
+        "_id": "8ca8ef55-9242-754f-c2e0-0c8488983ea1",
+        "input": "How many spells were cast by the character Vex'ahlia in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "3"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "12d1b8a6-2814-d9ae-fcae-7a78b98eb3a2",
+        "input": "How many spells were cast by the character Tiberius in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "10"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "86fef419-3a9f-5aca-dc1f-86b69d2d2de5",
+        "input": "How many spells were cast by the player Laura in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "3"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "cf983215-0bc8-35f1-1a32-85cbb57e3111",
+        "input": "How many spells were cast by the player Orion in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "10"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "22d868cb-9f6f-fe06-060f-b2467ec2aed3",
+        "input": "How many Unseen Servant spells were cast during this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "1"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3be4bf96-1322-7b99-578b-06ea30dcf0ff",
+        "input": "How many Call Lightning spells were cast during this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "1"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c2a888d8-77f5-8493-6acb-efbeb87c5d98",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Protection from Poison"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b1cd172f-96b6-432a-1505-c326c9266080",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Protection from Poison, Prestidigitation"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "8a7e1550-86f2-7fe2-e1c3-f283d27b4249",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Protection from Poison, Prestidigitation, Dispel Magic"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ac8caa19-1100-3f61-860d-56156ea39210",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Fire Bolt"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "90f1e4a9-ef2f-56d9-e660-2910a25a9414",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Dispel Magic, Fire Bolt"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "17284ad0-3c27-6861-0a1b-bfbb055bdfe8",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Hunter's Mark, Dispel Magic, Fire Bolt"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "693f075c-7b35-d490-2256-e2575077418a",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Call Lightning, Unseen Servant, Prestidigitation, Protection from Poison"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7d3f5577-e38a-2b1f-a785-7766d03a2915",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Cure Wounds, Dispel Magic, Fire Bolt, Hunter's Mark"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "9124e96b-dcdf-faf3-ece6-971074ad0093",
+        "input": "How many characters cast Unseen Servant spell in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "1"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "1305a732-8b4c-b4e2-45f6-5f89c935b18f",
+        "input": "How many characters cast Call Lightning spell in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "1"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "76b67833-d32e-7f18-ec00-024eb8186295",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Dispel Magic"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "73839941-f137-e848-8576-485c60199755",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Protection from Poison, Prestidigitation, Unseen Servant, Alter Self, Healing Word, Grand Columns, Polymorph, Lightning Bolt, Call Lightning, Cure Wounds, Stinking Cloud, Glacial Blast"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b404b7e6-1c96-f52b-7d40-4e9618aa6c29",
+        "input": "Which spells were cast by more than one character in this episode? Return a comma separated list.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Dispel Magic"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c30411be-a0ee-5a77-94fa-499b682bec1b",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "5"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a41f8862-1fe5-5be9-e964-4c07555faafe",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "167fc6fa",
+        "answers": [
+            "2"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "405c8936-28e9-31ea-0be4-0a30e9b8d7ac",
+        "input": "In this episode, which spells were cast at a level higher than their base level? Return a comma separated list of unique spells.",
+        "context_id": "167fc6fa",
+        "answers": [
+            "Dispel Magic, Cure Wounds"
+        ],
+        "length": 188658,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            2
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "63c80adc-42a1-e966-eed7-123e21716efd",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "18"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "17888917-59e5-5ba7-5e25-38105884592d",
+        "input": "How many spells were cast by the character Tiberius in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "6"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "561abfad-e4fe-c864-b9b2-07b1549680fe",
+        "input": "How many spells were cast by the character Keyleth in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "4"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "eb8d4157-1758-3f9d-c910-b295b826982e",
+        "input": "How many spells were cast by the player Marisha in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "4"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e7158be8-4a9d-6728-206b-8b21afae0b7a",
+        "input": "How many spells were cast by the player Orion in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "6"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "faeea350-711d-d1a5-1f1b-47c8808791da",
+        "input": "How many Dimension Door spells were cast during this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "2"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ce55a4dc-374e-544f-b4e4-a702d218a152",
+        "input": "How many Stoneskin spells were cast during this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "1"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "302e54fe-af3d-2132-fecb-f56a0c8e46d4",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "Control Winds"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d5aaba76-8543-a6f3-97f1-95074e63b512",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "Control Winds, Pass Without a Trace"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "8bac53e2-1b79-d685-5c78-a7af4ee0ddb8",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "Control Winds, Pass Without a Trace, Polymorph"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "51020726-c9e5-358e-cf92-26bb3ee50bbe",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "Control Flames"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "eb3d30cc-8e35-803a-86f4-042e31241aa5",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "Mage Hand, Control Flames"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2c3c23a7-2fa8-93ac-bdb8-59bc07dc7d47",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "Mage Hand, Mage Hand, Control Flames"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "dbae084b-ad5b-5ee2-085d-c97179bbf25d",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "01430629",
+        "answers": [
+            "Pass Without a Trace, Spiritual Weapon, Polymorph, Control Winds"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5a810dd9-11cd-72c3-9734-8f7608ece8e7",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "01430629",
+        "answers": [
+            "Guidance, Mass Cure Wounds, Healing Word, Control Flames"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "844a2607-4073-20c6-fb95-18cdb0e88384",
+        "input": "How many characters cast Dimension Door spell in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "1"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "4ca6bf74-9e02-aedc-3805-1a391a33cc98",
+        "input": "How many characters cast Stoneskin spell in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "1"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5ebdc476-e300-14e0-d24a-9a7260927262",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "01430629",
+        "answers": [
+            "Dimension Door, Mage Hand"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "54f7f4a9-75d5-d4d5-924d-fc79f5c0d782",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "01430629",
+        "answers": [
+            "Control Winds, Pass Without a Trace, Polymorph, Thunderwave, Wind Wall, Wall of Stone, Spiritual Weapon, Unseen Servant, Prestidigitation, Guidance, Mass Cure Wounds, Stoneskin, Healing Word, Control Flames"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e5ff15ca-0c60-bb96-055f-a16c4bed6f6a",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "01430629",
+        "answers": [
+            "5"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "26f42312-d7a7-53be-9f9d-227cd1b09757",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "01430629",
+        "answers": [
+            "0"
+        ],
+        "length": 184709,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            6
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ac696b21-314e-dd72-5cd6-e5bdac8758b4",
+        "input": "How many spells were cast by the character Keyleth in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "9"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "56d33cf6-3bbc-78a1-a0f5-1a95ad83e0eb",
+        "input": "How many spells were cast by the character Vex'ahlia in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "6"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "de65c24a-066f-5048-697a-3d5af63c6b29",
+        "input": "How many spells were cast by the player Laura in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "6"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "09ffbd3b-b19f-b980-900c-8d55f19defb4",
+        "input": "How many spells were cast by the player Marisha in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "9"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3f71ffb8-5848-bb4e-99b3-dcbd24d0f75d",
+        "input": "How many Alter Self spells were cast during this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "1"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ee55023a-3b2e-7cc6-d05c-f87e04fec634",
+        "input": "How many Conjure Barrage spells were cast during this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "1"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2337a7a1-a46f-1658-60be-b611e787cbc1",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "Wall of Stone"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5e239f6b-f34e-a7b8-f64d-80aab984aa60",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "Wall of Stone, Prestidigitation"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ed57045b-6e33-bd09-6e02-4ecb41f88ee5",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "Wall of Stone, Prestidigitation, Lightning Bolt"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "53a675d7-553b-13b5-22a2-45c9470e40e0",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "Gust of Wind"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "06dd6c2f-9fa9-2bba-81f2-fb13fa76c222",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "Grand Columns, Gust of Wind"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6c192442-b37d-057f-8f9b-a2c8e13528a6",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "Wall of Stone, Grand Columns, Gust of Wind"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b23afb98-aa6c-d625-f2c1-a4824b6a4585",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "6bd41653",
+        "answers": [
+            "Wall of Stone, Spiritual Weapon, Lightning Bolt, Prestidigitation, Primeval Awareness"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a7526742-d57c-f61e-ef4d-770620541fbc",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "6bd41653",
+        "answers": [
+            "Gust of Wind, Spiritual Weapon, Stinking Cloud, Grand Columns, Spike Growth"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "fe90457b-fb5d-a2d1-0cb3-a132f27afc97",
+        "input": "How many characters cast Alter Self spell in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "1"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e17ff5e1-7880-66dc-7f84-f33e31039790",
+        "input": "How many characters cast Conjure Barrage spell in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "1"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "126bbf3d-ac92-e3b2-c16e-de5c3dd9f36b",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "6bd41653",
+        "answers": [
+            "Gust of Wind"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3307521f-ca8d-ebf8-52e3-478856c5e626",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "6bd41653",
+        "answers": [
+            "Spiritual Weapon, Stinking Cloud, Spike Growth, Greater Invisibility, Protection from Poison, Invisibility, Poison Spray, Hunter's Mark, Conjure Barrage, Prestidigitation, Pass Without a Trace, Control Flames, Telekinesis, Polymorph, Alter Self, Lightning Bolt, Fly"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "668139cb-8b49-7f11-6158-4b7525ccf081",
+        "input": "Which spells were cast by more than one character in this episode? Return a comma separated list.",
+        "context_id": "6bd41653",
+        "answers": [
+            "Stoneskin"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6204928a-7f37-a1a6-a978-5687e0c8a968",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "6bd41653",
+        "answers": [
+            "3"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "20937b27-58ed-72a2-4a31-4baaa4199032",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "6bd41653",
+        "answers": [
+            "0"
+        ],
+        "length": 176638,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            16
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "00c31e7c-34a8-5787-a482-d8cec8a52153",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "27"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "52c4dab7-94c2-223e-e85f-f1e302b3d253",
+        "input": "How many spells were cast by the character Vex'ahlia in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "4"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7085fbee-1481-3c50-874d-9ab581e71119",
+        "input": "How many spells were cast by the character Lyra in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "11"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b86f9258-aaee-58f5-11fe-96988901d8a0",
+        "input": "How many spells were cast by the player Laura in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "4"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0e3541de-d7a3-1252-23bd-bdefc8cfd6e3",
+        "input": "How many spells were cast by the player Felicia in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "11"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "cc816381-0496-484a-7391-485440af81f8",
+        "input": "How many Mass Suggestion spells were cast during this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "1"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f8eebd28-188b-7f78-93c5-094faa068a59",
+        "input": "How many Hold Monster spells were cast during this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "2"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f32b5f63-7cff-ff76-20fd-fb97400e57d4",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Hunter's Mark"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "bd2dde23-8877-17a4-787f-b285a1db1ed0",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Hunter's Mark, Disintegrate"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "eee52e50-4632-3e30-1e65-83e363135d57",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Hunter's Mark, Disintegrate, Lightning Bolt"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "47be211d-d11a-e062-04aa-ae6323eea9d5",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Fire Bolt"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5ba64a05-32ac-8124-1174-9c44b1dae1eb",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Seeming, Fire Bolt"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "15895511-79b1-d593-a360-e4d401dcc48c",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Hellish Rebuke, Seeming, Fire Bolt"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3bfbdd88-2191-704e-4697-59cef1136747",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Disintegrate, Lightning Bolt, Hunter's Mark, Mass Suggestion"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "fd7795d1-ca68-4bf1-e21c-6d7f60a6ffe9",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Fire Bolt, Seeming, Lightning Arrow, Hellish Rebuke"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "56ad5f45-8135-1f0f-4227-2ae743306eb1",
+        "input": "How many characters cast Mass Suggestion spell in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "1"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3bd9363a-b2d2-3184-1c69-71ae39137720",
+        "input": "How many characters cast Hold Monster spell in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "1"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b6b11f1e-ed53-1803-1587-e6987ec35fa9",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Fire Bolt"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "6bfc597d-dd06-010f-1f41-5cd052bf6429",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Hellish Rebuke, Lightning Arrow, Fireball, Hail of Thorns, Dimension Door, Witch Bolt, Eyebite, Hex, Stoneskin, Speak with Animals, Legend Lore, Mass Suggestion, Seeming"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e9d89e26-3a31-744e-cad3-cb2220f6a523",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "4"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f3f243a5-0ed7-8b89-e348-a12c5a9b556a",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "3"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "440c41c8-1c8a-ad93-a5b8-184116a0eebe",
+        "input": "In this episode, which spells were cast at a level higher than their base level? Return a comma separated list of unique spells.",
+        "context_id": "2ae1e12c",
+        "answers": [
+            "Hex, Witch Bolt, Hellish Rebuke"
+        ],
+        "length": 195299,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            19
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "8c8af36d-ce41-4f25-d3a7-75f0754a7a2c",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "18"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0126ef59-6d08-8f51-a862-ad56802ceee4",
+        "input": "How many spells were cast by the character Kashaw in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "1"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c39089be-ad74-ed92-5ecd-d3161b351340",
+        "input": "How many spells were cast by the character Tiberius in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "14"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ae3aaa2d-0ad7-5b89-e32b-6d64f3f36193",
+        "input": "How many spells were cast by the player Orion in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "14"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "bcf68dc4-02a3-d93a-6d4a-5f98b9aa6a9a",
+        "input": "How many spells were cast by the player Will in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "1"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0c51f622-dbc9-902f-5d20-f57f45158105",
+        "input": "How many Mage Hand spells were cast during this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "1"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e55c3e85-02f5-47bb-5b65-92a7433b3731",
+        "input": "How many Obelisk of Iron spells were cast during this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "1"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2375190a-5b9a-73ca-1de9-f3a6ee86e1b9",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "Locate Creature"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "fa06decd-1882-a30f-e815-537900c97c0b",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "Locate Creature, Alter Self"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7e767a97-5339-6884-48c4-83fd25b266cf",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "Locate Creature, Alter Self, Gust"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2d968a94-2939-fda3-254e-c72ad996c68f",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "Invisibility"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "60dff33e-00db-8cdc-14ca-2a19268bf838",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "Prestidigitation, Invisibility"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "03e5d9e6-4067-6e66-ba31-75ebf1280eeb",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "Druidcraft, Prestidigitation, Invisibility"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d94251a0-5a2d-868c-6bc8-d6027acf5af1",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "77fec797",
+        "answers": [
+            "Locate Creature, Gust, Alter Self"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "74ac28e4-7287-af57-df1b-ce79367ef62c",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "77fec797",
+        "answers": [
+            "Locate Creature, Druidcraft, Invisibility"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "be28e8db-9ec8-a044-a4b0-895c88355fef",
+        "input": "How many characters cast Mage Hand spell in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "1"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e3046a5a-3cda-32eb-acbe-656d7dd752a8",
+        "input": "How many characters cast Obelisk of Iron spell in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "1"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3bc52589-1adc-2634-d346-da8345c0d2be",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "77fec797",
+        "answers": [
+            "Alter Self, Prestidigitation"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c475b1be-6c53-2ad8-2d8f-f8561f5acb8a",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "77fec797",
+        "answers": [
+            "Locate Creature, Gust, Mage Hand, Polymorph, Silence, Hold Person, Telekinesis, Stoneskin, Light, Fly, Slow, Obelisk of Iron, Druidcraft, Invisibility"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d5c41026-a794-1cec-1da3-7928fa106aa0",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "77fec797",
+        "answers": [
+            "6"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "623db46a-a172-282e-160c-47e71e61cd55",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "77fec797",
+        "answers": [
+            "0"
+        ],
+        "length": 158386,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            20
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2ab7637a-503f-9287-8099-a8aa288e5916",
+        "input": "How many spells were cast by the character Keyleth in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "8"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "51c262a7-245b-6d98-5068-b0a8dc1c1b99",
+        "input": "How many spells were cast by the character Percy in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "1"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "9c1ebd91-6ac7-75e8-be0f-c2c8ebbaaed9",
+        "input": "How many spells were cast by the player Marisha in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "8"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "504b6139-8feb-2a64-9f8e-93129ca7fd60",
+        "input": "How many spells were cast by the player Taliesin in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "1"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f44dffaa-c65f-c51c-31be-642b38029c05",
+        "input": "How many Stone Shape spells were cast during this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "1"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a0482d96-e543-f6c1-6819-22157cb00e83",
+        "input": "How many Guiding Bolt spells were cast during this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "2"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "af094f76-c6a6-e4ec-86e2-a69208513c95",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Transmute Rock"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b51d14b5-a7da-97ef-7ff2-b6440b08597c",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Transmute Rock, Wall of Stone"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "19f384ea-7054-3608-01f3-c1e0527d7d46",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Transmute Rock, Wall of Stone, Glyph of Warding"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d4701363-64b9-f240-3dbe-64e82612f8a6",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Enlarge"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "02f83e5b-aa84-c3e6-6291-efaee8debeb8",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Conjure Animals, Enlarge"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "113f2ec0-a000-cf88-aaea-d0355b00c944",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Feather Fall, Conjure Animals, Enlarge"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "64da3ca6-b839-2b32-4009-804c09fe9800",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Enlarge, Transmute Rock, Hex, Glyph of Warding, Dimension Door, Pass Without a Trace"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "90e08721-14d8-a778-4ff4-c365c6c3f374",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Enlarge, Earth Bind, Hex, Feather Fall, Thunderwave, Conjure Animals"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a4054f03-78ae-1f20-6258-1c839d9f407b",
+        "input": "How many characters cast Stone Shape spell in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "1"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "404a5400-09c7-6936-4b17-845c96e483b6",
+        "input": "How many characters cast Guiding Bolt spell in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "1"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b482659c-a05b-f729-a218-404e711e6b1a",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Conjure Animals, Guiding Bolt, Heroes' Feast, Protection from Energy, Transmute Rock"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "da13dff8-44bc-2b2b-fbdb-a5588cb9f47d",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Spiritual Weapon, Feather Fall, Thunderwave, Blindness, Grasping Vine, Earth Bind, Dimension Door, Bones of the Earth, Hex, Wall of Stone, Hunter's Mark, Aid, Death Ward, Pass Without a Trace, Divine Intervention, Stone Shape, Glyph of Warding, Enlarge"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "8922e212-fdc1-414b-a4d8-4827b4a01a63",
+        "input": "Which spells were cast by more than one character in this episode? Return a comma separated list.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Heroes' Feast, Protection from Energy"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "63388536-11f2-d69c-7a4c-e045e31d4d01",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "0"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "eecc2b6d-727a-dad6-a160-fb9e901d6f55",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "4"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "4293ea8e-98b4-6c40-30d1-4f94a9a9a4b2",
+        "input": "In this episode, which spells were cast at a level higher than their base level? Return a comma separated list of unique spells.",
+        "context_id": "8fcfd8a2",
+        "answers": [
+            "Aid, Guiding Bolt, Thunderwave"
+        ],
+        "length": 207482,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            54
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d62c0f36-ab40-3938-5d03-1aaf9e8afd75",
+        "input": "How many spells were cast by the character Scanlan in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "6"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "135c517c-7ad3-d8db-598f-b2fc0e2078a9",
+        "input": "How many spells were cast by the character Keyleth in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "7"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b612d5b2-b643-960e-6e62-f745ed0c18c4",
+        "input": "How many spells were cast by the player Marisha in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "7"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a5acf0d7-4b82-6406-ac71-4d5fe9135a98",
+        "input": "How many Move Earth spells were cast during this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "1"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "fb3237d9-80c8-4e18-852d-374dd2e3f362",
+        "input": "How many Pass Without a Trace spells were cast during this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "1"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "9333ea1a-45d5-5f90-2ba2-b96eafd6f4be",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Modify Memory"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "9e12fa00-160b-a16f-2556-dab80067321f",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Modify Memory, Move Earth"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "93293839-4506-0c32-2c98-72547ccb9baa",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Modify Memory, Move Earth, Greater Restoration"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c07def0b-ad24-608e-553e-20c7ab10c64a",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Transport Via Plants"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "4848666a-b560-8248-d800-db73d9e57570",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Plant Growth, Transport Via Plants"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "045b9584-d17f-71f7-ab4e-bfebde9a08d3",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Stone Shape, Plant Growth, Transport Via Plants"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "608ecd19-a923-1634-36fc-330a87f7f2b6",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Move Earth, Greater Restoration, Modify Memory, Primeval Awareness"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7366c13c-2599-b6fd-6a42-17132bb7d8f2",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Transport Via Plants, Greater Restoration, Modify Memory, Speak with Animals"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "86f7097b-f94b-9223-326a-d3cf4b743239",
+        "input": "How many characters cast Move Earth spell in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "1"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "99adf9d3-ca22-d5e5-fc44-9639bf98f0e1",
+        "input": "How many characters cast Pass Without a Trace spell in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "1"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "7e2d5db9-f83e-22cc-c7f1-7436cd1f7a33",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Greater Restoration, Modify Memory, Scrying, Seeming, Transport Via Plants"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b7385356-e7a7-0041-58ab-18542cb5a7dd",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Move Earth, Primeval Awareness, Unseen Servant, Pass Without a Trace, Message, Speak with Animals, Stone Shape, Plant Growth"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f505a78e-cd71-a77a-0fee-97c4fe6e1719",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "1"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b4f21790-896c-82f6-54d9-cf0d9eb4aeca",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "2"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5c160dc1-c880-a34c-644a-28d4ebc6ed51",
+        "input": "In this episode, which spells were cast at a level higher than their base level? Return a comma separated list of unique spells.",
+        "context_id": "d1b49c0e",
+        "answers": [
+            "Modify Memory, Transport Via Plants"
+        ],
+        "length": 195533,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            64
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3ee588d3-be94-fc30-5059-64ebb3c4937d",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "11"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a367a5e5-ec20-db46-3772-2aa2cc11f932",
+        "input": "How many spells were cast by the character Scanlan in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "3"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "11b7b107-8de6-0d09-7595-df0bb43678dc",
+        "input": "How many spells were cast by the character Keyleth in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "7"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a4aac358-3aae-84c6-a5d3-f7e6fb1eefbb",
+        "input": "How many spells were cast by the player Marisha in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "7"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "42e2261f-a4cd-d0aa-7dde-2a973b1012de",
+        "input": "How many Fireball spells were cast during this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "2"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b0e8e9c5-0af3-df11-bc38-25832d784923",
+        "input": "How many Flaming Sphere spells were cast during this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "1"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "33ffe352-d8c2-837b-4921-9d425984bf7e",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "Polymorph"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ecf05e1e-027c-7d2e-b64d-6f62c551b64f",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "Polymorph, Fireball"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "4468e4b1-51d5-dc60-a93c-148be823cd24",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "Polymorph, Fireball, Fireball"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "8f615f15-63ce-407d-004b-4cd311be12e9",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "Plant Growth"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e701e56e-87b5-6912-6476-ef0aeb76fdec",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "Polymorph, Plant Growth"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d918a36c-3523-7041-4958-1f0c951be12d",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "Gust, Polymorph, Plant Growth"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "5aa4c0cd-02e6-898e-bed0-7f6816cc517b",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "66b6a774",
+        "answers": [
+            "Fireball, Polymorph, Speak with Animals"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ae8c9bd4-8d53-0069-a68f-bd0d9a2a03e6",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "66b6a774",
+        "answers": [
+            "Plant Growth, Polymorph, Speak with Animals"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "48834f1f-87cf-0b80-6cd3-2b6e64c76c61",
+        "input": "How many characters cast Fireball spell in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "2"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "09ee3c03-b739-1267-3768-0ea6010d32b9",
+        "input": "How many characters cast Flaming Sphere spell in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "1"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "dadc666a-2106-f326-bfc6-edfbb6f012bc",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "66b6a774",
+        "answers": [
+            "Fireball, Polymorph"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "fb25ab8e-821c-eb04-250f-8a2b2e3bcb2e",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "66b6a774",
+        "answers": [
+            "Chain Lightning, Conjure Elemental, Speak with Animals, Heat Metal, Flaming Sphere, Gust, Plant Growth"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "1a999778-21a4-a3c1-5fd5-9d23dbe63fe6",
+        "input": "Which spells were cast by more than one character in this episode? Return a comma separated list.",
+        "context_id": "66b6a774",
+        "answers": [
+            "Fireball"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "2ec4a867-3cc0-fec3-f68b-4d8099d1acc1",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "66b6a774",
+        "answers": [
+            "1"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "995501c1-abe9-3545-d2c3-019f1e8d2d33",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "66b6a774",
+        "answers": [
+            "1"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "fcb7f7de-5d93-45e8-2aae-550c9056fd0f",
+        "input": "In this episode, which spells were cast at a level higher than their base level? Return a comma separated list of unique spells.",
+        "context_id": "66b6a774",
+        "answers": [
+            "Gust"
+        ],
+        "length": 122378,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            72
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "89109069-ef10-5e82-7381-a2fcc9919669",
+        "input": "How many spells were cast during this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "15"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "efd2e848-a127-ccc1-1b09-0e36b6c45f4c",
+        "input": "How many spells were cast by the character Keyleth in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "6"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "58dc6d5f-2eef-6d37-2d31-26cd5b8f3281",
+        "input": "How many spells were cast by the character Taryon in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "6"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f6c379cd-3b68-1f58-c02d-ca8d32434442",
+        "input": "How many spells were cast by the player Marisha in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "6"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "55a3c76a-1787-b228-9e99-47ac677d9ba3",
+        "input": "How many spells were cast by the player Sam in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "6"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e1e0ce4f-7110-bced-88e0-648788712d88",
+        "input": "How many Alter Self spells were cast during this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "6"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3f63a4d6-3ba1-ba9e-ad2b-4cc777730962",
+        "input": "How many Bless spells were cast during this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "1"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "395440b2-30fb-4f41-0788-c933e7f35496",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Plane Shift"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "c9c722ef-dcbf-d847-305a-1367567f4ca3",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Plane Shift, Alter Self"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a21dcdb4-5285-105d-01e6-791237d375c9",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Plane Shift, Alter Self, Alter Self"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "8512ddd1-bd9d-8507-9ccc-9d2db9abcdef",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Locate Creature"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "56b2f504-fb49-515e-b73a-8d193138bfe7",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Hex, Locate Creature"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "227cf2ec-dae4-b991-2cf1-bf97c419b4e6",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Bless, Hex, Locate Creature"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "09462877-5d86-5274-e57e-2ecb2f4d61eb",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Plane Shift, Hex, Alter Self, Lay on Hands"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b7bc6eb7-73d9-6457-54b0-746a8fea1337",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Locate Creature, Hex, Alter Self, Bless"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "60836c93-1c50-7f53-f073-367213e1ee91",
+        "input": "How many characters cast Alter Self spell in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "2"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "04097f40-fc39-6031-87c6-46eef0c29508",
+        "input": "How many characters cast Bless spell in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "1"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "54521fc5-451e-292a-2319-29860b533a33",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Alter Self"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "d2e71a0b-988c-aceb-ea53-c1ab035da4bc",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Plane Shift, Identify, Lay on Hands, Heroes' Feast, Bless, Hex, Locate Creature"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "126383b9-9a4b-689e-fd98-9592b2e534a2",
+        "input": "Which spells were cast by more than one character in this episode? Return a comma separated list.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Alter Self"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "16100c7d-dad3-fd63-4a44-7255e996bf25",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "0"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "69ab61ba-955e-49b1-32f2-2ba55051986f",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "f53ea4da",
+        "answers": [
+            "3"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e8ce4f4f-9e1c-b311-6c33-8d1a606424d1",
+        "input": "In this episode, which spells were cast at a level higher than their base level? Return a comma separated list of unique spells.",
+        "context_id": "f53ea4da",
+        "answers": [
+            "Alter Self, Scrying"
+        ],
+        "length": 206996,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            91
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "4e060cfc-5aa7-632b-3fc8-9b24cde5211a",
+        "input": "How many spells were cast by the character Taryon in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "2"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "b435a927-1fae-192d-a5e0-60d34bbfa718",
+        "input": "How many spells were cast by the character Vax'ildan in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f2116396-cce9-3fd1-fb30-68791a67017c",
+        "input": "How many spells were cast by the player Liam in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "bca4c761-d5cc-93b8-dc1d-a48724b67f86",
+        "input": "How many spells were cast by the player Sam in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "2"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "891e2c86-6b00-62d2-c325-152596f532f9",
+        "input": "How many Druidcraft spells were cast during this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a192de24-3e7a-a252-0e66-ed1bf2a082c1",
+        "input": "How many Foresight spells were cast during this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "70576cd0-703a-e43e-7d85-7535c1a9c51d",
+        "input": "What is the first spell cast in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "Identify"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "240dd99b-0a89-23bb-7904-c38cb0fe5eaa",
+        "input": "What are the first two spells cast in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "Identify, Identify"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "cedcb975-55ec-42e4-2bae-12664144ab1d",
+        "input": "What are the first three spells cast in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "Identify, Identify, Druidcraft"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "3bcc8ce4-084d-d6b6-cf2a-b1bed01bb6a3",
+        "input": "What is the last spell cast in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "Dominate Person"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "dcf6d989-8028-735f-a57e-173ace426283",
+        "input": "What are the last two spells cast in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "Grasping Vine, Dominate Person"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "93e53f39-86ed-3d8e-fb45-251db390232b",
+        "input": "What are the last three spells cast in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "Foresight, Grasping Vine, Dominate Person"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "ac9d0708-bd95-8ac6-4c78-c774f8e1397b",
+        "input": "What is the first spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "10900c8b",
+        "answers": [
+            "Druidcraft, Seeming, Identify, Divine Sense, Pass Without a Trace"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "0eaa69bd-dc10-a004-3a10-639805baa7a1",
+        "input": "What is the last spell cast by each character in this episode? Return a comma separated list and retain the order of spells as they appear in the episode.",
+        "context_id": "10900c8b",
+        "answers": [
+            "Grasping Vine, Dominate Person, Identify, Divine Sense, Pass Without a Trace"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "e4040b3f-6d77-40c7-898a-a905928a9248",
+        "input": "How many characters cast Druidcraft spell in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "f8f37cd0-319a-0d34-b57b-a90bead90eee",
+        "input": "How many characters cast Foresight spell in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "11e72271-7e36-0510-5838-24f32727b7ae",
+        "input": "What is the most common spell in this episode? Return a comma separated list.",
+        "context_id": "10900c8b",
+        "answers": [
+            "Identify"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "553d676c-f9b0-5775-5a08-fe58f9a402f7",
+        "input": "What is the least common spell in this episode? Only include spells that were cast at least once. Return a comma separated list.",
+        "context_id": "10900c8b",
+        "answers": [
+            "Druidcraft, Transport via Plants, Pass Without a Trace, Divine Sense, Seeming, Foresight, Grasping Vine, Dominate Person"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "fed2fa77-8484-48d7-f64a-1f556a908f28",
+        "input": "What is the total number of cantrip spells cast in this episode?",
+        "context_id": "10900c8b",
+        "answers": [
+            "1"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    },
+    {
+        "_id": "a81c5f14-6f88-c89d-84d6-c7bb925c4b8e",
+        "input": "In this episode, how many times was a spell cast at a level higher than its base level?",
+        "context_id": "10900c8b",
+        "answers": [
+            "0"
+        ],
+        "length": 152972,
+        "dataset": "oolong_real_singledoc_spells",
+        "language": "en",
+        "all_classes": null,
+        "question_type": "singledoc_spells",
+        "episodes": [
+            101
+        ],
+        "campaign": "campaign1"
+    }
+]
